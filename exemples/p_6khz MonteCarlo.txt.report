@@ -1,0 +1,7 @@
+<hr><div class='right' ><a href='http://nmr.cemhti.cnrs-orleans.fr/temp/p_6khz MonteCarlo.png target='_blank'><img src='http://nmr.cemhti.cnrs-orleans.fr/temp/p_6khz MonteCarlo.png' width='400px' /></a></div>Monte Carlo error report for 'p_6khz MonteCarlo.txt'
+5 parameters and 210 steps
+#1-F2/Amplitude:	237.65 +/- sdev:1.2 - 0.51%
+#1-F2/Position:	1227.81 +/- sdev:0.6538 - 0.05%
+#1-F2/Width:	285.37 +/- sdev:1.506 - 0.53%
+#1-F2/dCS:	14310.49 +/- sdev:38.08 - 0.27%
+#1-F2/etaCS:	0.46 +/- sdev:0.01248 - 2.72%

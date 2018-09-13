@@ -1,0 +1,32 @@
+<hr><div class='right' ><a href='http://nmr.cemhti.cnrs-orleans.fr/temp/overlapping MonteCarlo.png target='_blank'><img src='http://nmr.cemhti.cnrs-orleans.fr/temp/overlapping MonteCarlo.png' width='400px' /></a></div>Monte Carlo error report for 'overlapping MonteCarlo.txt'
+30 parameters and 510 steps
+#1-F2/Amplitude:	40.36 +/- sdev:1.182 - 2.93%
+#1-F2/Position:	5084.96 +/- sdev:1.931 - 0.04%
+#1-F2/Width:	112.15 +/- sdev:4.221 - 3.76%
+#2-F2/Amplitude:	82.94 +/- sdev:0.7305 - 0.88%
+#2-F2/Position:	3617.90 +/- sdev:1.828 - 0.05%
+#2-F2/Width:	382.65 +/- sdev:6.22 - 1.63%
+#3-F2/Amplitude:	85.67 +/- sdev:0.5611 - 0.65%
+#3-F2/Position:	2948.81 +/- sdev:2.211 - 0.07%
+#3-F2/Width:	590.21 +/- sdev:8.228 - 1.39%
+#4-F2/Amplitude:	266.73 +/- sdev:1.189 - 0.45%
+#4-F2/Position:	752.87 +/- sdev:0.9654 - 0.13%
+#4-F2/Width:	400.51 +/- sdev:5.691 - 1.42%
+#5-F2/Amplitude:	145.62 +/- sdev:1.163 - 0.80%
+#5-F2/Position:	-1212.15 +/- sdev:1.132 - -0.09%
+#5-F2/Width:	224.72 +/- sdev:3.777 - 1.68%
+#6-F2/Amplitude:	55.66 +/- sdev:1.232 - 2.21%
+#6-F2/Position:	-1446.43 +/- sdev:3.198 - -0.22%
+#6-F2/Width:	231.86 +/- sdev:8.678 - 3.74%
+#7-F2/Amplitude:	37.17 +/- sdev:1.534 - 4.13%
+#7-F2/Position:	-683.20 +/- sdev:1.852 - -0.27%
+#7-F2/Width:	156.68 +/- sdev:13.54 - 8.64%
+#8-F2/Amplitude:	18.49 +/- sdev:0.9979 - 5.40%
+#8-F2/Position:	4412.05 +/- sdev:5.476 - 0.12%
+#8-F2/Width:	164.67 +/- sdev:11.75 - 7.13%
+#9-F2/Amplitude:	19.72 +/- sdev:1.09 - 5.53%
+#9-F2/Position:	1182.82 +/- sdev:5.22 - 0.44%
+#9-F2/Width:	206.94 +/- sdev:21.73 - 10.50%
+#10-F2/Amplitude:	27.27 +/- sdev:1.113 - 4.08%
+#10-F2/Position:	325.58 +/- sdev:6.286 - 1.93%
+#10-F2/Width:	312.53 +/- sdev:70.85 - 22.67%
